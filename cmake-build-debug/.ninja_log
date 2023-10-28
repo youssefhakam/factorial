@@ -1,0 +1,6 @@
+# ninja log v5
+0	112	7201456947799824	CMakeFiles/untitled.dir/main.c.obj	8d0a0617ece9644d
+114	372	7201456950382881	untitled.exe	be8f472a4dd9f571
+12	134	7201460294589311	CMakeFiles/untitled.dir/factorial.c.obj	c6dbc6eaee9ee58b
+5	137	7201460294621934	CMakeFiles/untitled.dir/main.c.obj	8d0a0617ece9644d
+137	246	7201460295636576	untitled.exe	226680fe955a6ca2
